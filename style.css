@@ -10,8 +10,12 @@
     background-color:lightblue;
 
 }
-#box{
+.box{
     height: 500px;
     width: 500px;
     background-color: blue;
+}
+
+h1{
+    color: green;
 }
